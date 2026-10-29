@@ -1,7 +1,7 @@
 {
-  "version": "20261029.1726",
-  "url": "https://raw.githubusercontent.com/kill92/Our-Way-Travel-App/main/bundle-20261029.1726.zip",
-  "sha256": "ff484afe3d71b0767850ca1f5e554472312eaefc6043f3eb3dbb8381a4f4b436",
-  "sig": "K0ALV5kJ+cKUhd6Aevx4kxehM1acCd0Wv8pbqfVucfH/M7p3TpltKStuDh5RDz5xisdrNgdzOdpTM0XtJx38mQ==",
-  "notes": "עדכון ראשון"
+  "version": "20261030.0056",
+  "url": "https://raw.githubusercontent.com/kill92/Our-Way-Travel-App/main/bundle-20261030.0056.zip",
+  "sha256": "356405df77cd22cfb74913bcaeb8e5a8e507f04b239ac105d39635a27226b955",
+  "sig": "V963eLNObHWdMMQfR1+xHsI1SpwsSL1t43WumOHIx0Y9w0LOoN/2+FG8a6CRe9jJi9/2CHBvUMIwgIPwVssXRw==",
+  "notes": "תיקון נעילה ביומטרית"
 }

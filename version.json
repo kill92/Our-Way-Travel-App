@@ -1,7 +1,7 @@
 {
-  "version": "20261030.0056",
-  "url": "https://raw.githubusercontent.com/kill92/Our-Way-Travel-App/main/bundle-20261030.0056.zip",
-  "sha256": "356405df77cd22cfb74913bcaeb8e5a8e507f04b239ac105d39635a27226b955",
-  "sig": "V963eLNObHWdMMQfR1+xHsI1SpwsSL1t43WumOHIx0Y9w0LOoN/2+FG8a6CRe9jJi9/2CHBvUMIwgIPwVssXRw==",
-  "notes": "תיקון נעילה ביומטרית"
+  "version": "20261030.0149",
+  "url": "https://raw.githubusercontent.com/kill92/Our-Way-Travel-App/main/bundle-20261030.0149.zip",
+  "sha256": "ca3e209367baf0a6e37460f156d5f52003b6bb6735955659a2c09b7b18ffe685",
+  "sig": "7+Ut+FdxlP4Y+yOeXgjp4HKnc60919109S75vUgh/YtHUgYJLFIthietVwa1kqJcRLZZEE228A3cQ1humOjemg==",
+  "notes": "ייבוא אישורי הזמנה, חיפוש לינה ומדריך מהיר"
 }

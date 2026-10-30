@@ -1,7 +1,7 @@
 {
-  "version": "20261030.0149",
-  "url": "https://raw.githubusercontent.com/kill92/Our-Way-Travel-App/main/bundle-20261030.0149.zip",
-  "sha256": "ca3e209367baf0a6e37460f156d5f52003b6bb6735955659a2c09b7b18ffe685",
-  "sig": "7+Ut+FdxlP4Y+yOeXgjp4HKnc60919109S75vUgh/YtHUgYJLFIthietVwa1kqJcRLZZEE228A3cQ1humOjemg==",
-  "notes": "ייבוא אישורי הזמנה, חיפוש לינה ומדריך מהיר"
+  "version": "20261030.1116",
+  "url": "https://raw.githubusercontent.com/kill92/Our-Way-Travel-App/main/bundle-20261030.1116.zip",
+  "sha256": "de6c9db18e754c6cf543f6fefa7a59c6a336a4187241071cfa9096237b9aa45c",
+  "sig": "H1ufwBPCOAsLQAmDHtEZvJRPlINH4fZCukhL2TiGDH00CvFs/NSjCrvDLxK81ZXwivJDGXyWWt7K39dGPascmg==",
+  "notes": "יומן והתראות, מזעור, מדריך, אימות Google"
 }

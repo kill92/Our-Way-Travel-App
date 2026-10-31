@@ -1,7 +1,7 @@
 {
-  "version": "20261101.0122",
-  "url": "https://raw.githubusercontent.com/kill92/Our-Way-Travel-App/main/bundle-20261101.0122.zip",
-  "sha256": "d4442c996e1534fa4493c84c50da76942e31592c229fd3f8993f5c3644df080a",
-  "sig": "YYY0xcn7et2NTPsexMso+rA/iuTBc7xFekKcxE8P2xRKMvZzcdzZlJ40wR7f58mC7qIOm0PACRQNmsCmZ6jqWA==",
-  "notes": "תיקון תאריכים, כפתור מטרו, אבחון התראות"
+  "version": "20261101.0143",
+  "url": "https://raw.githubusercontent.com/kill92/Our-Way-Travel-App/main/bundle-20261101.0143.zip",
+  "sha256": "2d550db50cf0515bbc4d4c209a52030c2f237e3dc139325d20381a487e263e16",
+  "sig": "QvO8i7NmNYtIFpeaHYwaUdFfudchMRZK5itDAXzeF73uvZjNnQ+0VwQmO317yu5xq265PgH92Dcmv8BTpEjrcw==",
+  "notes": "מטרו: ניסיון חוזר ורכבת קלה"
 }

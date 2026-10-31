@@ -1,7 +1,7 @@
 {
-  "version": "20261101.0054",
-  "url": "https://raw.githubusercontent.com/kill92/Our-Way-Travel-App/main/bundle-20261101.0054.zip",
-  "sha256": "72205da259c94ed6b0f77cbecbcda06ac0e3f88be261493d689dee74520050c1",
-  "sig": "a/qyctFp3YuBS8gThvIMMvpI4h7rCm1W7yIJyP3S6f6ksL/PGJI4ebdse3Dki2q57Mj0WEfI7cUyWCCLlk0Bqg==",
-  "notes": "בורר תאריכים, מילוי מקובץ, סטטוס טיסה, מטרו, התראות"
+  "version": "20261101.0122",
+  "url": "https://raw.githubusercontent.com/kill92/Our-Way-Travel-App/main/bundle-20261101.0122.zip",
+  "sha256": "d4442c996e1534fa4493c84c50da76942e31592c229fd3f8993f5c3644df080a",
+  "sig": "YYY0xcn7et2NTPsexMso+rA/iuTBc7xFekKcxE8P2xRKMvZzcdzZlJ40wR7f58mC7qIOm0PACRQNmsCmZ6jqWA==",
+  "notes": "תיקון תאריכים, כפתור מטרו, אבחון התראות"
 }

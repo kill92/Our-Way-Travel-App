@@ -1,7 +1,7 @@
 {
-  "version": "20261030.1116",
-  "url": "https://raw.githubusercontent.com/kill92/Our-Way-Travel-App/main/bundle-20261030.1116.zip",
-  "sha256": "de6c9db18e754c6cf543f6fefa7a59c6a336a4187241071cfa9096237b9aa45c",
-  "sig": "H1ufwBPCOAsLQAmDHtEZvJRPlINH4fZCukhL2TiGDH00CvFs/NSjCrvDLxK81ZXwivJDGXyWWt7K39dGPascmg==",
-  "notes": "יומן והתראות, מזעור, מדריך, אימות Google"
+  "version": "20261101.0054",
+  "url": "https://raw.githubusercontent.com/kill92/Our-Way-Travel-App/main/bundle-20261101.0054.zip",
+  "sha256": "72205da259c94ed6b0f77cbecbcda06ac0e3f88be261493d689dee74520050c1",
+  "sig": "a/qyctFp3YuBS8gThvIMMvpI4h7rCm1W7yIJyP3S6f6ksL/PGJI4ebdse3Dki2q57Mj0WEfI7cUyWCCLlk0Bqg==",
+  "notes": "בורר תאריכים, מילוי מקובץ, סטטוס טיסה, מטרו, התראות"
 }

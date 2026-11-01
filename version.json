@@ -1,7 +1,7 @@
 {
-  "version": "20261101.1547",
-  "url": "https://raw.githubusercontent.com/kill92/Our-Way-Travel-App/main/bundle-20261101.1547.zip",
-  "sha256": "8be176c11a9b2d4e04cfc25aba7f1a9dec795fa94d67ae13aeeb05a14b9ab28a",
-  "sig": "bg9JFa2MdS9yVTfj+js9ooKhS5UlAx90abJJluRD1YgOeecHPLeUPCh1jljja/sFtxlIdVu7DqA9fCmpd8kmPw==",
-  "notes": "בדיקת עדכון גם בחזרה לאפליקציה"
+  "version": "20261101.1555",
+  "url": "https://raw.githubusercontent.com/kill92/Our-Way-Travel-App/main/bundle-20261101.1555.zip",
+  "sha256": "e334212fb30506a64cfa85cdcc37699164ff5db84d343a4c3fb1fadd52f83562",
+  "sig": "SUuyGkbvYvWazEtK74ATY+faPeWI+ycoBcJdPY28VAJ1Zzxo7pp1R4C5WIn1G+vVXleejCMh3a4OG5IQT+/Bcg==",
+  "notes": "כפתור הוראות בארנק"
 }

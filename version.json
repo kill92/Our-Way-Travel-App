@@ -1,7 +1,7 @@
 {
-  "version": "20261101.1618",
-  "url": "https://raw.githubusercontent.com/kill92/Our-Way-Travel-App/main/bundle-20261101.1618.zip",
-  "sha256": "8c35fb9507d60fcf6f0872ce411433e560fc7f757d45b8472f5ae1821d7301c8",
-  "sig": "R8ZfJFP7r4TArTULPd50qrEg2f/X5jVxuNx/zFQV/2ytI5BBNZEr9uaWN0Rd4x5ibTrfH7ldJuK3OvV2KslQZA==",
-  "notes": "באנר עדכון אוטומטי"
+  "version": "20261101.1622",
+  "url": "https://raw.githubusercontent.com/kill92/Our-Way-Travel-App/main/bundle-20261101.1622.zip",
+  "sha256": "45acde02e81a74cd87aa348c9e2dcbee7352d132974f33dc67026bc8da29e999",
+  "sig": "b48QvzRW1hDoRncMQM+Jrs3l0BXNLSCRDY3tzRFwCBZs8cBrql5YvcYZuqQit7aDTBLLw+5MGZic8AJXpmCsag==",
+  "notes": "v1.1.0: מספר גרסה בהגדרות"
 }

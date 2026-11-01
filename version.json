@@ -1,7 +1,7 @@
 {
-  "version": "20261101.0205",
-  "url": "https://raw.githubusercontent.com/kill92/Our-Way-Travel-App/main/bundle-20261101.0205.zip",
-  "sha256": "944610fbda9b5e03fbdcda245690954da09f814ab6b59277aa94a21436da2b0a",
-  "sig": "85/rz8+tZpIHo7rA8VbzOjUmgMAdrXgFQ+xTe+hVoM08BM4ljQKyPp0TObDqSqUDj7mdcO5KJr8166C9LYndCw==",
-  "notes": "הנפשת המתנה ומיקום חזק יותר"
+  "version": "20261101.0248",
+  "url": "https://raw.githubusercontent.com/kill92/Our-Way-Travel-App/main/bundle-20261101.0248.zip",
+  "sha256": "53ebc52642b60e20faac3f81a7404e14c2b315d866aafdafbe1364bd66ff337a",
+  "sig": "ezwpYJSGmMM9KJeegjzCP4NdQW3sitUBB5nFjqdNPkgn4lJ5gTEGt019bX9YcrdfJzqjXVCAw3Rv43jec9+vfA==",
+  "notes": "חידוש התחברות בלחיצה"
 }

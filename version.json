@@ -1,7 +1,7 @@
 {
-  "version": "20261101.0248",
-  "url": "https://raw.githubusercontent.com/kill92/Our-Way-Travel-App/main/bundle-20261101.0248.zip",
-  "sha256": "53ebc52642b60e20faac3f81a7404e14c2b315d866aafdafbe1364bd66ff337a",
-  "sig": "ezwpYJSGmMM9KJeegjzCP4NdQW3sitUBB5nFjqdNPkgn4lJ5gTEGt019bX9YcrdfJzqjXVCAw3Rv43jec9+vfA==",
-  "notes": "חידוש התחברות בלחיצה"
+  "version": "20261101.0259",
+  "url": "https://raw.githubusercontent.com/kill92/Our-Way-Travel-App/main/bundle-20261101.0259.zip",
+  "sha256": "2e8d226d438345ae46a7576ba8b63606174e0f2232f7bfe273d81fda7d58507e",
+  "sig": "WjJlWQfPudrtTqcfaiqsQpcshK7oeWJ+stC8p5euL8AqcrBOo/FUEwYhJAwwsPB2Y5CIlUAS+5Ri7aRTgRYU5w==",
+  "notes": "איתור טיסה, שעות, מזג אוויר Google"
 }

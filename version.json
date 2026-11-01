@@ -1,7 +1,7 @@
 {
-  "version": "20261101.1542",
-  "url": "https://raw.githubusercontent.com/kill92/Our-Way-Travel-App/main/bundle-20261101.1542.zip",
-  "sha256": "9b15adf3e57e5eba17241046a63ba89f5bb2ba50bbbe343e995ca6b83131880d",
-  "sig": "NDqx5xLVHmJc4tn1isu8t2D8FWCCjVLnRiXypQBA+Dp1B16QTSg6Z/4J7xrFlVKEXEyxvP+znti42bEUknaeyA==",
-  "notes": "תיקוני נסיעות, ארנק ועיצוב"
+  "version": "20261101.1547",
+  "url": "https://raw.githubusercontent.com/kill92/Our-Way-Travel-App/main/bundle-20261101.1547.zip",
+  "sha256": "8be176c11a9b2d4e04cfc25aba7f1a9dec795fa94d67ae13aeeb05a14b9ab28a",
+  "sig": "bg9JFa2MdS9yVTfj+js9ooKhS5UlAx90abJJluRD1YgOeecHPLeUPCh1jljja/sFtxlIdVu7DqA9fCmpd8kmPw==",
+  "notes": "בדיקת עדכון גם בחזרה לאפליקציה"
 }

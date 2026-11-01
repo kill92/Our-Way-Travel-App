@@ -1,7 +1,7 @@
 {
-  "version": "20261101.0259",
-  "url": "https://raw.githubusercontent.com/kill92/Our-Way-Travel-App/main/bundle-20261101.0259.zip",
-  "sha256": "2e8d226d438345ae46a7576ba8b63606174e0f2232f7bfe273d81fda7d58507e",
-  "sig": "WjJlWQfPudrtTqcfaiqsQpcshK7oeWJ+stC8p5euL8AqcrBOo/FUEwYhJAwwsPB2Y5CIlUAS+5Ri7aRTgRYU5w==",
-  "notes": "איתור טיסה, שעות, מזג אוויר Google"
+  "version": "20261101.1542",
+  "url": "https://raw.githubusercontent.com/kill92/Our-Way-Travel-App/main/bundle-20261101.1542.zip",
+  "sha256": "9b15adf3e57e5eba17241046a63ba89f5bb2ba50bbbe343e995ca6b83131880d",
+  "sig": "NDqx5xLVHmJc4tn1isu8t2D8FWCCjVLnRiXypQBA+Dp1B16QTSg6Z/4J7xrFlVKEXEyxvP+znti42bEUknaeyA==",
+  "notes": "תיקוני נסיעות, ארנק ועיצוב"
 }

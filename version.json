@@ -1,7 +1,7 @@
 {
-  "version": "20261101.1716",
-  "url": "https://raw.githubusercontent.com/kill92/Our-Way-Travel-App/main/bundle-20261101.1716.zip",
-  "sha256": "d29dce8b29b58178b4c80ff6655a72d6b3ac62bb532e19516fe9bf997efb6e94",
-  "sig": "yRq8tsGjWfFA69Enz2nPaTZ2uFUWvTHlbPINI6ecN48C31L7322SVq6uLF0oyyHgn5Dd5ao7IGQlXjDoACMXJw==",
+  "version": "20261101.1723",
+  "url": "https://raw.githubusercontent.com/kill92/Our-Way-Travel-App/main/bundle-20261101.1723.zip",
+  "sha256": "915b0f7b74cce368dd9fd892a5333e068c0f7291eb2adab3814be704e374938d",
+  "sig": "UWPHuQf6jZ0SMciVBgci0/XFXVZfhBWw0ows2sZSX03+3MuYDIxN0Ov0I0MKoxter9jf5WbT6RB+yO/yVzktmg==",
   "notes": "v1.2.1: חיבור ארוך ל-Google"
 }

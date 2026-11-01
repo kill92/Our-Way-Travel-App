@@ -1,7 +1,7 @@
 {
-  "version": "20261101.1555",
-  "url": "https://raw.githubusercontent.com/kill92/Our-Way-Travel-App/main/bundle-20261101.1555.zip",
-  "sha256": "e334212fb30506a64cfa85cdcc37699164ff5db84d343a4c3fb1fadd52f83562",
-  "sig": "SUuyGkbvYvWazEtK74ATY+faPeWI+ycoBcJdPY28VAJ1Zzxo7pp1R4C5WIn1G+vVXleejCMh3a4OG5IQT+/Bcg==",
-  "notes": "כפתור הוראות בארנק"
+  "version": "20261101.1612",
+  "url": "https://raw.githubusercontent.com/kill92/Our-Way-Travel-App/main/bundle-20261101.1612.zip",
+  "sha256": "9e73b095dc57cc8e69b42d7e77d6ff5ddea2153a40311229078ed79b61b99cdd",
+  "sig": "kw5ct0bKU7GF/cjzsltHjiJPWN5vTj5BE4zn0zR8EelPNBBLs7jcr7MbTv+A9ex/VFhshcjfTUYVGqKNVYGYNg==",
+  "notes": "רשימת ציוד: קטגוריה ואז פריט"
 }

@@ -1,7 +1,7 @@
 {
-  "version": "20261102.1307",
-  "url": "https://raw.githubusercontent.com/kill92/Our-Way-Travel-App/main/bundle-20261102.1307.zip",
-  "sha256": "881067c91a1fef4d38e41c7d1d0ba3832b6dbaf12e8fe5528c4fcdb0e65d4b24",
-  "sig": "CG+jwy8FgXyxwn5vCj/hPCqvpa6eZ8ClDLHdMlfK3tPXr5aa4yL0LzHmeBKb65NYRkTs2xiAEDTfItj4zCh7ag==",
-  "notes": "v1.3.0: הדרכה, כספת, מדריך פתוח"
+  "version": "20261102.1631",
+  "url": "https://raw.githubusercontent.com/kill92/Our-Way-Travel-App/main/bundle-20261102.1631.zip",
+  "sha256": "9524318930b53a8eb8b4ac9942e287b2a3081cb83c9d94bbed41107daca6e143",
+  "sig": "Y+hGcCMIut2uif5TT8TXxqSisbf2tEAJ+ohGXhIQilfOL3yc9fXa4Yy17dMMjv6bm8MwADKHCQgICORBjWLIpA==",
+  "notes": "v1.3.1: נעילת הדרכה"
 }

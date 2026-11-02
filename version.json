@@ -1,7 +1,7 @@
 {
-  "version": "20261102.1631",
-  "url": "https://raw.githubusercontent.com/kill92/Our-Way-Travel-App/main/bundle-20261102.1631.zip",
-  "sha256": "9524318930b53a8eb8b4ac9942e287b2a3081cb83c9d94bbed41107daca6e143",
-  "sig": "Y+hGcCMIut2uif5TT8TXxqSisbf2tEAJ+ohGXhIQilfOL3yc9fXa4Yy17dMMjv6bm8MwADKHCQgICORBjWLIpA==",
-  "notes": "v1.3.1: נעילת הדרכה"
+  "version": "20261102.1646",
+  "url": "https://raw.githubusercontent.com/kill92/Our-Way-Travel-App/main/bundle-20261102.1646.zip",
+  "sha256": "2cf705ba52e84c8533bf64d3838d9a16cc85cdb8bda4025272b6c1573e01f94a",
+  "sig": "zDS9Uzmgr51UNF1k95rQntpeulCR5tWbU0wVyqmqFC4pd22R+4yQxrMtKrhfAAJeDrlyck0szpu/ZSS/gVp5xg==",
+  "notes": "v1.3.2: תיקוני הדרכה"
 }

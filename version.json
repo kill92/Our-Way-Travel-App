@@ -1,7 +1,7 @@
 {
-  "version": "20261102.1039",
-  "url": "https://raw.githubusercontent.com/kill92/Our-Way-Travel-App/main/bundle-20261102.1039.zip",
-  "sha256": "aabe1d44d2e5f586883a8caf1ef7208b777b9dbccd6fac0c3b0098a664050d0d",
-  "sig": "u0xXBy0VqC6Kxq299l+BeO0wvyEGp+tq+1pQ4zXmOCbOzaWuLToeFc0PGw5A8cyNSSZE8YVBcRW6w7jBCK6I6A==",
-  "notes": "v1.2.2: הקטגוריה נשמרת ברשימת ציוד"
+  "version": "20261102.1137",
+  "url": "https://raw.githubusercontent.com/kill92/Our-Way-Travel-App/main/bundle-20261102.1137.zip",
+  "sha256": "1cac4fe4b689d7a27085a51a3625504da2c8d8ce601a781139a89b406834a132",
+  "sig": "pPrN1UfCzZnRgn/1ppQD40GcMkHmxbCZ7NpevefCdMZNbp7/AKLbKSaVyiKHBaMwa7+Gbujlgs7ysuaJnwvWCw==",
+  "notes": "v1.2.3: מעבר לפרויקט גוגל our-way-travel"
 }

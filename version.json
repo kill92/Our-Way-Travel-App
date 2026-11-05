@@ -1,7 +1,7 @@
 {
-  "version": "20261105.1352",
-  "url": "https://raw.githubusercontent.com/kill92/Our-Way-Travel-App/main/bundle-20261105.1352.zip",
-  "sha256": "71f1b8fd2f034a4f5e038ffc4607b5283a82253d8415bc017377124353661e24",
-  "sig": "sRnd4E33VNDfAAWBHKn0FtS/MfFKTsP2KS+K+0NhEn7NVs1fdXfQ6oYzc/Sjp4wukJYQc9xVD5WEG7Sz0cCulw==",
-  "notes": "v1.3.4: תרגום ערים לעברית לחיפוש מזג אוויר"
+  "version": "20261105.1359",
+  "url": "https://raw.githubusercontent.com/kill92/Our-Way-Travel-App/main/bundle-20261105.1359.zip",
+  "sha256": "758e13d133684e9f1d14ffc2f63e5ada448d674a8a799723a954e76d41136015",
+  "sig": "UqmjbEah9Epsc+zcbDt/LBBU1jCLg1OUoag0likNhJvAXb8a5vfRiUA6dEcKdWTFKcigLph9dD8HF0zSp3QcSw==",
+  "notes": "v1.3.5: מירכוז כותרת אחסון מזוודות"
 }

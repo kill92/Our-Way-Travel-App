@@ -1,7 +1,7 @@
 {
-  "version": "20261105.1349",
-  "url": "https://raw.githubusercontent.com/kill92/Our-Way-Travel-App/main/bundle-20261105.1349.zip",
-  "sha256": "274282a9929a78760aad47ba20830f241dcfd2b253ba605652e712b45107c8e4",
-  "sig": "pknlWHQkz5nAf846lsKq2R4UIwTMk3N4ED+nOXU17PUKuC0IHRzspFmWmJTcMEQ5E0H1sVPlfh4+qHKuhbs0VQ==",
-  "notes": "v1.3.3: אחסון מזוודות תחת לינה ותיקון מזג אוויר"
+  "version": "20261105.1352",
+  "url": "https://raw.githubusercontent.com/kill92/Our-Way-Travel-App/main/bundle-20261105.1352.zip",
+  "sha256": "71f1b8fd2f034a4f5e038ffc4607b5283a82253d8415bc017377124353661e24",
+  "sig": "sRnd4E33VNDfAAWBHKn0FtS/MfFKTsP2KS+K+0NhEn7NVs1fdXfQ6oYzc/Sjp4wukJYQc9xVD5WEG7Sz0cCulw==",
+  "notes": "v1.3.4: תרגום ערים לעברית לחיפוש מזג אוויר"
 }

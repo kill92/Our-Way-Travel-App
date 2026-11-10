@@ -1,7 +1,7 @@
 {
-  "version": "20261109.1352",
-  "url": "https://raw.githubusercontent.com/kill92/Our-Way-Travel-App/main/bundle-20261109.1352.zip",
-  "sha256": "a4ba796c5425a38349e287548d4536420f5b704dc5467eba4ba4e293f16b7428",
-  "sig": "jdZoGGwzpy7396qgiO4uuh/sWNw7aZE+Z97L2oU7unkWT5+3TcATlwnXR7ppPcPq590eUvuSy7dn2zBLeqiHAQ==",
-  "notes": "v1.4.3: Update 1.4.3"
+  "version": "20261110.1912",
+  "url": "https://raw.githubusercontent.com/kill92/Our-Way-Travel-App/main/bundle-20261110.1912.zip",
+  "sha256": "bc70fd9ba67847c72cfbbb955dd8ffd6bec8317f78d1e14b539595134a9d6cad",
+  "sig": "+wptzgaaSxZUVUX++XAd2shvZ4U5b04Susq1zR4SXoPF6+GB5XImAd0lDyTD9G0e0H65YxHPIAC+x3JRRGQ0rA==",
+  "notes": "v1.4.4: Update 1.4.4"
 }

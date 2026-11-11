@@ -1,7 +1,7 @@
 {
-  "version": "20261112.0002",
-  "url": "https://raw.githubusercontent.com/kill92/Our-Way-Travel-App/main/bundle-20261112.0002.zip",
-  "sha256": "8737b7d9e70b9b18beecb87d8cc014f4d0d7b7760956d350408c52a0893d5549",
-  "sig": "hbvrtGNfgQxlygmAqCy8YTjRNIHzQDG/px87nqK8Zyi/ulA1cRcgCls6yKpHxbw44BVhE9gvZ9iSvSslXtFrdA==",
-  "notes": "v1.4.5: עדכון גרפיקה תפריט נסיעות"
+  "version": "20261112.0018",
+  "url": "https://raw.githubusercontent.com/kill92/Our-Way-Travel-App/main/bundle-20261112.0018.zip",
+  "sha256": "327f88983f0bfe1076b0d63c05c99095d174d97a9908a68753a72f14cb86570b",
+  "sig": "V4GT1E/Bxzf54UgT0ZT0GO7ECIf3wAfYTvq7YYDD5DyzHShnzkRPyvKLLmu4T0e4M4+mS5/0fWvMUMCd7i4LNg==",
+  "notes": "v1.4.5: עיצוב תפריט נסיעות"
 }

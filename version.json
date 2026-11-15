@@ -1,7 +1,7 @@
 {
-  "version": "20261115.1423",
-  "url": "https://raw.githubusercontent.com/kill92/Our-Way-Travel-App/main/bundle-20261115.1423.zip",
-  "sha256": "ba9d1203be6ca0d78711b56070f4ef72f00624100a5a8ea0bc326c34060527bd",
-  "sig": "vOd9pWjc1XUvZlCvrycwuzxM6W/Ajx14q+2RFYlCwVR9XGBYSr0Y5BGLatzU4/9gkiYxmN4WQiPXb9wWo6FXOA==",
-  "notes": "v1.5.0: תיקון עיצוב תפריט נסיעות והוספת מפות לאפליקציה"
+  "version": "20261115.1434",
+  "url": "https://raw.githubusercontent.com/kill92/Our-Way-Travel-App/main/bundle-20261115.1434.zip",
+  "sha256": "1e4d65e7ccf1e7b6b3520588134e23d33a61bae936435c86ab38063fe5094d68",
+  "sig": "3Tvt995Sp6aLg0jrTV2+GQ/hcAj8hSxT/rZy35QHHmQRJC/IZc6RSfvRXSUpQhqytk1o+i2FqBs1kY1czYPIYg==",
+  "notes": "v1.5.1: תיקון מפות, תיקון מיקום מיקום מקומות למפות"
 }

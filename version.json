@@ -1,7 +1,7 @@
 {
-  "version": "20261112.1651",
-  "url": "https://raw.githubusercontent.com/kill92/Our-Way-Travel-App/main/bundle-20261112.1651.zip",
-  "sha256": "f82f89d927d39383214156e6976f006f1be6a2f825df8530ecfa105174a74e16",
-  "sig": "1NBsS4eGUqOwplW2k65MKa2ospw4ynucHzgXmJaXG2qd9IxX1DiH/1I7sXHu2eytd9E10rv3NCwqzjzq7mwyCw==",
-  "notes": "v1.4.7: Update 1.4.7"
+  "version": "20261115.1310",
+  "url": "https://raw.githubusercontent.com/kill92/Our-Way-Travel-App/main/bundle-20261115.1310.zip",
+  "sha256": "4491eee584f89f91f87b0bca4c0f0e26e331446352d522908f3a269f3eaa3805",
+  "sig": "/GIYvhLyQvP2s8ejZr6hTkQ5wnm5peD7Buvvg2vdxTryI3BkKiMtdXmuPmR9unbUYZELBjuFLVEqlVdebR62KQ==",
+  "notes": "v1.5.0: שילוב מפות באפליקציה"
 }

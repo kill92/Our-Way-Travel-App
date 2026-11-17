@@ -1,7 +1,7 @@
 {
-  "version": "20261115.1434",
-  "url": "https://raw.githubusercontent.com/kill92/Our-Way-Travel-App/main/bundle-20261115.1434.zip",
-  "sha256": "1e4d65e7ccf1e7b6b3520588134e23d33a61bae936435c86ab38063fe5094d68",
-  "sig": "3Tvt995Sp6aLg0jrTV2+GQ/hcAj8hSxT/rZy35QHHmQRJC/IZc6RSfvRXSUpQhqytk1o+i2FqBs1kY1czYPIYg==",
-  "notes": "v1.5.1: תיקון מפות, תיקון מיקום מיקום מקומות למפות"
+  "version": "20261117.1132",
+  "url": "https://raw.githubusercontent.com/kill92/Our-Way-Travel-App/main/bundle-20261117.1132.zip",
+  "sha256": "33a917508a8284ec7a683ae61446a81de876268bd153eaf0d62cf36bcda82250",
+  "sig": "aHuOQuPP7MH15qn87h2OTSpT0aKRsr08ZiS2RKmbJs8Sqqo6tZD5VR5JH8wPhR28ZLKyLrUO8Om5/U0LFGxVqg==",
+  "notes": "v1.8.0: עדכון גדול ורחב, מצריך התקנת APK חדשה."
 }

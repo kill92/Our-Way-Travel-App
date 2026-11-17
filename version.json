@@ -1,7 +1,7 @@
 {
-  "version": "20261117.1132",
-  "url": "https://raw.githubusercontent.com/kill92/Our-Way-Travel-App/main/bundle-20261117.1132.zip",
-  "sha256": "33a917508a8284ec7a683ae61446a81de876268bd153eaf0d62cf36bcda82250",
-  "sig": "aHuOQuPP7MH15qn87h2OTSpT0aKRsr08ZiS2RKmbJs8Sqqo6tZD5VR5JH8wPhR28ZLKyLrUO8Om5/U0LFGxVqg==",
-  "notes": "v1.8.0: עדכון גדול ורחב, מצריך התקנת APK חדשה."
+  "version": "20261117.1838",
+  "url": "https://raw.githubusercontent.com/kill92/Our-Way-Travel-App/main/bundle-20261117.1838.zip",
+  "sha256": "59bfd1f811ec652a4398a51e1db69cdc162c53b4af6425f5c88bb22f34f53147",
+  "sig": "WyGCN+q/760e5dKTI6n9nzpGo7y+079fTfRAJeWfMUYTEZIn1/2asshrwwFVnYNeZlviYLG9nn0Fnka/pLhO3g==",
+  "notes": "v1.9.0: Update 1.9.0"
 }

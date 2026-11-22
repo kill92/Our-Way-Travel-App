@@ -1,7 +1,7 @@
 {
-  "version": "20261122.1559",
-  "url": "https://raw.githubusercontent.com/kill92/Our-Way-Travel-App/main/bundle-20261122.1559.zip",
-  "sha256": "ea2eef5570c419df78e514ce0a214b30b288671f650d4ce43edd660707da2aaf",
-  "sig": "iIV9BML9hNGAEX/fEdQUWgI+RZvsy8w7xlkmL7OQRZTV170+DJkPHYYvJC7TMRdfxt2YGg7rcSe2xkjyO/2GMw==",
-  "notes": "v1.9.2: מה נכלל"
+  "version": "20261122.1639",
+  "url": "https://raw.githubusercontent.com/kill92/Our-Way-Travel-App/main/bundle-20261122.1639.zip",
+  "sha256": "860d94d375f5ada1e388fc5f609f0e73790276037911995f2ac511621d6230d7",
+  "sig": "gCO/+pZSPyAzK/ULaUOZK+OaOURBNL6dvanT9HQ1e6p54vR/EUUG+xTpHPLWtsVu9RF4AHGULy3sTc9TI89pQQ==",
+  "notes": "v1.9.4: עדכון סמלים, כפתור מדריך צף, מסך פתיחה, חלון הזמנהה שני מטיילים, סריקת דף במצלמה."
 }

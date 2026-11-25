@@ -1,7 +1,7 @@
 {
-  "version": "20261123.2358",
-  "url": "https://raw.githubusercontent.com/kill92/Our-Way-Travel-App/main/bundle-20261123.2358.zip",
-  "sha256": "f844deefb774e6ce9339f615d59e19de87e5fde4f4773ba0b02ba16f859d71fb",
-  "sig": "vsttVWIE2+SGMecdlbGKGeYPTEwc/mMyt+OyRCzWMthyAaH+4LhOcAcYOTyVVZLTuUUr4olwDQkrc32RuZ6/HA==",
-  "notes": "v1.9.7: גלילה בזמן כתיבת המדריך, תמונות לדוגמה, תיאור קצר ליד התמונה."
+  "version": "20261125.1821",
+  "url": "https://raw.githubusercontent.com/kill92/Our-Way-Travel-App/main/bundle-20261125.1821.zip",
+  "sha256": "5d954942cec6f1de5a4c24f3600b74ca7d40b43b31353a43bbb9d23b0ce22692",
+  "sig": "Tu9su1PPnaEcEr1Z8GJw5IQ1hzXig74iGuJKjsqSRwmogIdu6r6gU6HUeZquvMAXt/xaLYkhK26lf+kANscDxQ==",
+  "notes": "v1.10.3: הקשחת אבטחה בקובץ הAPK."
 }
